@@ -5,9 +5,8 @@
 ## **Overview of Project**
 
 ### Purpose
-In this project, we are helping our friends Seth and Tom audit some election data for the election commissioner. In order to do this, we have put together a python file with a script that is able to scan a csv file, aggregate and organize the analysis and then automates our desired output into a text file that then can be shared. 
-Before Seth and Tom can deliver this file to the commissioner, they received additional data requests for the audit.
-Our methods are also unknown to the commissioner and anyone else involved, we have therefor put together an overview of our methods.
+In this project, we are helping our friends Seth and Tom audit some election data for the election commissioner. In order to do this, we have put together a python file with a script that is able to scan a csv file, aggregate and organize the analysis and then automates our desired output into a text file that then can be shared.
+Before Seth and Tom can deliver this file to the commissioner, they received additional data requests for the audit. Our methods are also unknown to the commissioner and anyone else involved, we have therefor put together an overview of our methods.
 
 
 ## **Results**
