@@ -2,9 +2,8 @@
 
 ## **Overview of Project**
 
-### Purpose
 #### In this project, we are helping our friends Seth and Tom audit some election data for the election commissioner. In order to do this, we have put together a python file with a script that is able to scan a csv file, aggregate and organize the analysis and then automates our desired output into a text file that then can be shared.
-#### Before Seth and Tom can deliver this file to the commissioner, they received additional data requests for the audit. We have just finished editing our script to include outputs for the new requests and are ready to deliver the script. 
+#### Before Seth and Tom can deliver this file to the commissioner, they received additional data requests for the audit. We have just finished editing our script to include outputs for the new requests and are ready to deliver the script. We have also included a list of pros and cons with examples for how the script could be used in any election so that the commissioner might want to purchase this script from us.
 
 ## **Results**
 
@@ -20,7 +19,7 @@
 > <img width="257" alt="Screen Shot 2022-01-20 at 10 58 29 AM" src="https://user-images.githubusercontent.com/95602006/150385724-ce842b9d-1e4e-41be-ab1c-e90fde935526.png">
 
 
-## **Summary**
+## **Summary of the Election Audit Script with Opportunities for further use**
 
 Pros of the script for business prop:
 * The script gives us a custom output 
