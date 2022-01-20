@@ -1,11 +1,11 @@
-# **Analysis of Election Audit**
+# **Election Audit**
 
 ## **Overview of Project**
 
 #### In this project, we are helping our friends Seth and Tom audit some election data for the election commissioner. In order to do this, we have put together a python file with a script that is able to scan a csv file, aggregate and organize the analysis and then automates our desired output into a text file that then can be shared.
 #### Before Seth and Tom can deliver this file to the commissioner, they received additional data requests for the audit. We have just finished editing our script to include outputs for the new requests and are ready to deliver the script. We have also included a list of pros and cons with examples for how the script could be used in any election so that the commissioner might want to purchase this script from us.
 
-## **Results**
+## **Election Results**
 
 ##### 1. How many votes were cast in this congressional election?
 > ![Screen Shot 2022-01-20 at 2 54 52 PM](https://user-images.githubusercontent.com/95602006/150420707-309a2305-ba19-458a-94a6-e40d48daeb02.png)
