@@ -19,21 +19,21 @@
 > <img width="257" alt="Screen Shot 2022-01-20 at 10 58 29 AM" src="https://user-images.githubusercontent.com/95602006/150385724-ce842b9d-1e4e-41be-ab1c-e90fde935526.png">
 
 
-## **Summary of the Election Audit Script with Opportunities for further use**
+## **Summary and Opportunities**
 
-Pros of the script for business prop:
+Pros of the script:
 * The script gives us a custom output 
 * It is able to read a scan through a large amount of votes, something excel may trip up with
 * The script can be edited based on changing requirements with the general structure remaining intact
 
-Cons of the script for business prop:
+Cons of the script:
 * The script requires python, since it is a .py file
 * It's output is relatively simple, giving us outcomes, and isn't able to performan an analysis in its current form
 * The script as is, is relatively limited. It's ability to print out our outcomes would be more valuable if there were tons of datasets that needed to be scanned. For example, the entire state of Colorado and it's counties.
 
 While successfully running the script, we were able to aggregate over 369,000 votes, an output of desired stats and text answers to specific questions we programmed in. Now this can all be done using VBA and some of it can be done using pivot tables, but both of those require lots of steps and the use of macros with excel. Our script is able to automate all of that simply by running.
 
-## Business Proposition: For use in any given election
+## Opportunity: For use in any given election
 This script is able to accomplish quite a few feats given the low level of energy needed to run. This script can also be repurposed for any election, and therefore is a valuable asset to have. Below i have provide 2 examples for other use cases in analyzing election data in an effort to pursuade the commissioner to purchase our services/our script.
 
 **Example 1)** Since the script is not tied to any county name or any spceific candidate name, we can easily repurpose this for any other election. The key requirement is that we would have to ensure the dataset is in a csv file with the same data category in the same columns. That just means that column A needs to be the county column for any dataset. Columm B would need the candidate name. It could be 100 different counties and different candidates, only as long as the dataset has the correct data in the same columns.
