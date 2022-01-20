@@ -12,7 +12,12 @@ Before Seth and Tom can deliver this file to the commissioner, they received add
 ## **Results**
 
 > 1. How many votes were cast in this congressional election?
+There were a total of 369,711 votes cast in this congressional election.
+
 > 2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+County - % of total - Votes
+![Screen Shot 2022-01-19 at 10 24 23 PM](https://user-images.githubusercontent.com/95602006/150273161-f6f563e6-e0f7-4ef7-b7b7-99ade7154ad8.png)
+
 > 3. Which county had the largest number of votes?
 > 4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 > 5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
